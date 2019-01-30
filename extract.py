@@ -63,5 +63,3 @@ for id, course in ERASMUS_IDS:
     print("OUPUT: complete to ", filename)
 
 print("DONE courses: ", ERASMUS_IDS)
-
-#TODO: anonymize
