@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Anonymous Monkey 1681",
+    "university": "Technische Universitat München",
+    "country": "Alemanha",
+    "order": "1.º",
+    "phase": "1ª",
+    "type": "Estudos",
+    "option": "1",
+    "class_name": "student",
+    "id": 1681,
+    "grade": "159,82"
+  },
+  {
+    "name": "Anonymous Jackal 1690",
+    "university": "Universidade do Estado de Santa Catarina",
+    "country": "Brasil",
+    "order": "1.º",
+    "phase": "1ª",
+    "type": "",
+    "option": "1",
+    "class_name": "student",
+    "id": 1690,
+    "grade": "154,65"
+  },
+  {
+    "name": "Anonymous Panda 1696",
+    "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+    "country": "Hungria",
+    "order": "1.º",
+    "phase": "1ª",
+    "type": "Estudos",
+    "option": "1",
+    "class_name": "student",
+    "id": 1696,
+    "grade": "152,80"
+  },
+  {
+    "name": "Anonymous Ferret 1707",
+    "university": "Technische Universität Wien",
+    "country": "Áustria",
+    "order": "1.º",
+    "phase": "1ª",
+    "type": "Estudos",
+    "option": "2",
+    "class_name": "student",
+    "id": 1707,
+    "grade": "148,55"
+  },
+  {
+    "name": "Anonymous Coyote 1722",
+    "university": "Sapienza Università di Roma (Facoltà di Ingenieria dell' Informazione, Informatica e Statistica)",
+    "country": "Itália",
+    "order": "1.º",
+    "phase": "1ª",
+    "type": "Estudos",
+    "option": "1",
+    "class_name": "student",
+    "id": 1722,
+    "grade": "140,72"
+  },
+  {
+    "name": "Anonymous Python 1728",
+    "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+    "country": "Hungria",
+    "order": "2.º",
+    "phase": "1ª",
+    "type": "Estudos",
+    "option": "1",
+    "class_name": "student",
+    "id": 1728,
+    "grade": "135,49"
+  }
+]

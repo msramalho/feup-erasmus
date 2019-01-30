@@ -1,0 +1,86 @@
+[
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Nyan cat 3",
+    "id": 3,
+    "grade": "155,05",
+    "country": "Polónia",
+    "university": "Politechnika Slaska",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Wolverine 4",
+    "id": 4,
+    "grade": "151,51",
+    "country": "Itália",
+    "university": "Universitá degli Studi di Padova",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Cormorant 5",
+    "id": 5,
+    "grade": "149,56",
+    "country": "Estados Unidos da América",
+    "university": "University of Maryland, Baltimore County",
+    "type": "",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Sheep 6",
+    "id": 6,
+    "grade": "146,73",
+    "country": "Polónia",
+    "university": "Politechnika Slaska",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Axolotl 7",
+    "id": 7,
+    "grade": "144,78",
+    "country": "Polónia",
+    "university": "Politechnika Częstochowska",
+    "type": "Estudos",
+    "option": "2"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Chupacabra 8",
+    "id": 8,
+    "grade": "142,74",
+    "country": "Itália",
+    "university": "Universitá degli Studi di Padova",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Armadillo 9",
+    "id": 9,
+    "grade": "137,88",
+    "country": "Chile",
+    "university": "Pontifícia Universidad Católica de Chile",
+    "type": "",
+    "option": "1"
+  }
+]

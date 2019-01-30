@@ -1,0 +1,86 @@
+[
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Monkey 1681",
+    "id": 1681,
+    "grade": "159,82",
+    "country": "Alemanha",
+    "university": "Technische Universitat München",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Jackal 1690",
+    "id": 1690,
+    "grade": "154,65",
+    "country": "Brasil",
+    "university": "Universidade do Estado de Santa Catarina",
+    "type": "",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Panda 1696",
+    "id": 1696,
+    "grade": "152,80",
+    "country": "Hungria",
+    "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Ferret 1707",
+    "id": 1707,
+    "grade": "148,55",
+    "country": "Finlândia",
+    "university": "Aalto University",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Elephant 1716",
+    "id": 1716,
+    "grade": "143,38",
+    "country": "Macau",
+    "university": "Universidade de Macau",
+    "type": "",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Coyote 1722",
+    "id": 1722,
+    "grade": "140,72",
+    "country": "Itália",
+    "university": "Sapienza Università di Roma (Facoltà di Ingenieria dell' Informazione, Informatica e Statistica)",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Python 1728",
+    "id": 1728,
+    "grade": "135,49",
+    "country": "Hungria",
+    "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+    "type": "Estudos",
+    "option": "1"
+  }
+]
