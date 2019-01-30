@@ -374,30 +374,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Grizzly 306",
-    "id": 306,
-    "grade": "155,11",
-    "country": "Roménia",
-    "university": "Universitatea Politehnica Bucuresti (Faculty of Automatic Control and Computer Science)",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Mink 307",
-    "id": 307,
-    "grade": "154,99",
-    "country": "Croácia",
-    "university": "Sveuciliste u Zagrebu (FER - Faculty of Electrical Engineering and Computing)",
-    "type": "Estudos",
-    "option": "2"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Alligator 404",
     "id": 404,
@@ -434,7 +410,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Nyan cat 407",
     "id": 407,
     "grade": "153,24",
@@ -506,7 +482,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Manatee 413",
     "id": 413,
     "grade": "149,64",
@@ -526,18 +502,6 @@
     "university": "Politechnika Poznanska (Faculty of Electronics and Telecommunications)",
     "type": "Estudos",
     "option": "4"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
-    "name": "Anonymous Raccoon 319",
-    "id": 319,
-    "grade": "149,23",
-    "country": "Alemanha",
-    "university": "Karlsruher Institut fur Technologie",
-    "type": "Estudos",
-    "option": "1"
   },
   {
     "class_name": "student",
@@ -566,18 +530,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Ibex 322",
-    "id": 322,
-    "grade": "148,07",
-    "country": "França",
-    "university": "Institut polytechnique de Grenoble",
-    "type": "Estudos",
-    "option": "9"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Hyena 417",
     "id": 417,
@@ -602,14 +554,14 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
+    "order": "2.º",
     "name": "Anonymous Dinosaur 419",
     "id": 419,
     "grade": "147,60",
     "country": "Roménia",
-    "university": "UNIVERSITATEA TEHNICA \"GHEORGHE ASACHI\" DIN IASI",
+    "university": "Universitatea Politehnica Bucuresti (Faculty of Automatic Control and Computer Science)",
     "type": "Estudos",
-    "option": "2"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -639,25 +591,13 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
-    "name": "Anonymous Badger 328",
-    "id": 328,
-    "grade": "146,61",
-    "country": "Itália",
-    "university": "Università di Pisa",
-    "type": "Estudos",
-    "option": "2"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Wombat 422",
     "id": 422,
     "grade": "146,61",
     "country": "Itália",
-    "university": "Università degli Studi di Brescia",
+    "university": "Università di Pisa",
     "type": "Estudos",
-    "option": "2"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -686,14 +626,14 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
+    "order": "2.º",
     "name": "Anonymous Cheetah 425",
     "id": 425,
     "grade": "145,27",
-    "country": "Eslováquia",
-    "university": "Zilinska univerzita v Ziline",
+    "country": "Croácia",
+    "university": "Sveuciliste u Zagrebu (FER - Faculty of Electrical Engineering and Computing)",
     "type": "Estudos",
-    "option": "6"
+    "option": "2"
   },
   {
     "class_name": "student",
@@ -723,30 +663,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Iguana 335",
-    "id": 335,
-    "grade": "144,87",
-    "country": "Brasil",
-    "university": "Universidade Estadual de Campinas",
-    "type": "",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Buffalo 336",
-    "id": 336,
-    "grade": "144,69",
-    "country": "Estados Unidos da América",
-    "university": "University of Maryland, Baltimore County",
-    "type": "",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Penguin 428",
     "id": 428,
     "grade": "144,28",
@@ -774,22 +690,10 @@
     "name": "Anonymous Turtle 430",
     "id": 430,
     "grade": "143,70",
-    "country": "Peru",
-    "university": "Pontificia Universidad Católica del Perú",
-    "type": "",
-    "option": "3"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Axolotl 340",
-    "id": 340,
-    "grade": "143,53",
-    "country": "Espanha",
-    "university": "Universidad de Sevilla (ETSI: Escuela Tecnica Superior de Ingeniería)",
+    "country": "Roménia",
+    "university": "UNIVERSITATEA TEHNICA \"GHEORGHE ASACHI\" DIN IASI",
     "type": "Estudos",
-    "option": "4"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -842,31 +746,31 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
+    "order": "2.º",
     "name": "Anonymous Jackalope 435",
     "id": 435,
     "grade": "143,12",
-    "country": "Noruega",
-    "university": "Universitetet I Sorost-Norge",
+    "country": "Itália",
+    "university": "Università degli Studi di Brescia",
     "type": "Estudos",
-    "option": "8"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Fox 436",
-    "id": 436,
-    "grade": "143,00",
-    "country": "Brasil",
-    "university": "Universidade Federal da Bahia",
-    "type": "",
-    "option": "7"
+    "option": "3"
   },
   {
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
+    "name": "Anonymous Fox 436",
+    "id": 436,
+    "grade": "143,00",
+    "country": "Eslováquia",
+    "university": "Zilinska univerzita v Ziline",
+    "type": "Estudos",
+    "option": "3"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
     "name": "Anonymous Walrus 437",
     "id": 437,
     "grade": "142,77",
@@ -890,18 +794,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
-    "name": "Anonymous Kangaroo 440",
-    "id": 440,
-    "grade": "142,30",
-    "country": "Reino Unido",
-    "university": "University of Hull",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "1.º",
     "name": "Anonymous Bat 439",
     "id": 439,
@@ -915,13 +807,13 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
-    "name": "Anonymous Fox 351",
-    "id": 351,
+    "name": "Anonymous Kangaroo 440",
+    "id": 440,
     "grade": "142,30",
-    "country": "Espanha",
-    "university": "Universidad de Sevilla (EPS: Escuela Politécnica Superior)",
+    "country": "Reino Unido",
+    "university": "University of Hull",
     "type": "Estudos",
-    "option": "6"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -930,27 +822,27 @@
     "name": "Anonymous Tiger 441",
     "id": 441,
     "grade": "141,72",
-    "country": "França",
-    "university": "Institut polytechnique de Grenoble",
-    "type": "Estudos",
-    "option": "6"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Alligator 442",
-    "id": 442,
-    "grade": "141,66",
     "country": "Espanha",
-    "university": "Universidad Pontificia Comillas",
+    "university": "Universidad de Sevilla (ETSI: Escuela Tecnica Superior de Ingeniería)",
     "type": "Estudos",
-    "option": "2"
+    "option": "5"
   },
   {
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
+    "name": "Anonymous Alligator 442",
+    "id": 442,
+    "grade": "141,66",
+    "country": "Espanha",
+    "university": "Universidad de Sevilla (EPS: Escuela Politécnica Superior)",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
     "name": "Anonymous Nyan cat 443",
     "id": 443,
     "grade": "141,08",
@@ -986,18 +878,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Alligator 357",
-    "id": 357,
-    "grade": "140,50",
-    "country": "Espanha",
-    "university": "Universidad del País Vasco UPV (Escuela Técnica Superior de Ingeniería)",
-    "type": "Estudos",
-    "option": "10"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Turtle 446",
     "id": 446,
@@ -1026,22 +906,10 @@
     "name": "Anonymous Alligator 448",
     "id": 448,
     "grade": "139,92",
-    "country": "Espanha",
-    "university": "Universidade da Coruña (Escuela Universitaria Politécnica Ferrol (EUP))",
+    "country": "Noruega",
+    "university": "Universitetet I Sorost-Norge",
     "type": "Estudos",
-    "option": "9"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Ibex 361",
-    "id": 361,
-    "grade": "139,80",
-    "country": "México",
-    "university": "Universidad Nacional Autónoma de México",
-    "type": "",
-    "option": "2"
+    "option": "4"
   },
   {
     "class_name": "student",
@@ -1058,7 +926,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Quagga 450",
     "id": 450,
     "grade": "139,28",
@@ -1066,30 +934,6 @@
     "university": "Universidad del País Vasco UPV (Escuela Técnica Superior de Ingeniería)",
     "type": "Estudos",
     "option": "7"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
-    "name": "Anonymous Ibex 364",
-    "id": 364,
-    "grade": "139,22",
-    "country": "Estados Unidos da América",
-    "university": "University of Maryland, Baltimore County",
-    "type": "",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Wombat 365",
-    "id": 365,
-    "grade": "138,64",
-    "country": "Brasil",
-    "university": "Universidade Federal da Paraíba",
-    "type": "",
-    "option": "24"
   },
   {
     "class_name": "student",
@@ -1106,31 +950,19 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
-    "name": "Anonymous Kangaroo 367",
-    "id": 367,
-    "grade": "53,53",
-    "country": "México",
-    "university": "Universidad Nacional Autónoma de México",
+    "order": "1.º",
+    "name": "Anonymous Axolotl 452",
+    "id": 452,
+    "grade": "63,48",
+    "country": "Estados Unidos da América",
+    "university": "University of Maryland, Baltimore County",
     "type": "",
-    "option": "4"
+    "option": "1"
   },
   {
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Narwhal 368",
-    "id": 368,
-    "grade": "48,12",
-    "country": "França",
-    "university": "ENSEIRB MATMECA / IPB",
-    "type": "Estudos",
-    "option": "12"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Crow 453",
     "id": 453,
     "grade": "47,54",
@@ -1143,36 +975,12 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
-    "name": "Anonymous Chameleon 370",
-    "id": 370,
-    "grade": "44,23",
-    "country": "Brasil",
-    "university": "Universidade Federal do Rio Grande do Sul",
-    "type": "",
-    "option": "18"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Duck 371",
-    "id": 371,
-    "grade": "43,41",
-    "country": "Índia",
-    "university": "Indian Institute of Technology Delhi",
-    "type": "",
-    "option": "3"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
-    "name": "Anonymous Capybara 372",
-    "id": 372,
-    "grade": "41,78",
-    "country": "França",
-    "university": "Ecole Supérieure d'Electricité (SUPELEC)",
+    "name": "Anonymous Fox 454",
+    "id": 454,
+    "grade": "41,66",
+    "country": "Espanha",
+    "university": "Universidad Pontificia Comillas",
     "type": "Estudos",
-    "option": "24"
+    "option": "2"
   }
 ]

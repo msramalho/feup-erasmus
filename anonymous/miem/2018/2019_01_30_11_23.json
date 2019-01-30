@@ -3,18 +3,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Elephant 1901",
-    "id": 1901,
-    "grade": "182,63",
-    "country": "Itália",
-    "university": "Politecnico di Milano",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Rhino 2026",
     "id": 2026,
     "grade": "177,31",
@@ -42,10 +30,10 @@
     "name": "Anonymous Sheep 2028",
     "id": 2028,
     "grade": "173,27",
-    "country": "Suíça",
-    "university": "EPFL - École Polytechnique Fédérale de Lausanne",
-    "type": "",
-    "option": "2"
+    "country": "Itália",
+    "university": "Politecnico di Milano",
+    "type": "Estudos",
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -106,18 +94,6 @@
     "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
     "type": "Estudos",
     "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Chinchilla 1910",
-    "id": 1910,
-    "grade": "165,06",
-    "country": "Países Baixos",
-    "university": "Universiteit Twente",
-    "type": "Estudos",
-    "option": "2"
   },
   {
     "class_name": "student",
@@ -231,13 +207,13 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Buffalo 2045",
-    "id": 2045,
+    "name": "Anonymous Narwhal 2043",
+    "id": 2043,
     "grade": "157,36",
-    "country": "República Checa",
-    "university": "UNIVERZITA PARDUBICE",
+    "country": "Finlândia",
+    "university": "Jyväskylän ammattikorkeakoulu",
     "type": "Estudos",
-    "option": "3"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -255,13 +231,13 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Narwhal 2043",
-    "id": 2043,
+    "name": "Anonymous Buffalo 2045",
+    "id": 2045,
     "grade": "157,36",
-    "country": "Finlândia",
-    "university": "Jyväskylän ammattikorkeakoulu",
+    "country": "República Checa",
+    "university": "UNIVERZITA PARDUBICE",
     "type": "Estudos",
-    "option": "1"
+    "option": "3"
   },
   {
     "class_name": "student",
@@ -387,18 +363,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Buffalo 2057",
-    "id": 2057,
-    "grade": "154,76",
-    "country": "Eslováquia",
-    "university": "Zilinska univerzita v Ziline",
-    "type": "Estudos",
-    "option": "2"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Loris 2056",
     "id": 2056,
     "grade": "154,76",
@@ -410,12 +374,36 @@
   {
     "class_name": "student",
     "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Buffalo 2057",
+    "id": 2057,
+    "grade": "154,76",
+    "country": "Eslováquia",
+    "university": "Zilinska univerzita v Ziline",
+    "type": "Estudos",
+    "option": "2"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Wolf 2058",
     "id": 2058,
     "grade": "154,62",
     "country": "Eslováquia",
     "university": "Zilinska univerzita v Ziline",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Loris 2059",
+    "id": 2059,
+    "grade": "153,83",
+    "country": "Polónia",
+    "university": "Politechnika Wroclawska",
     "type": "Estudos",
     "option": "1"
   },
@@ -435,35 +423,11 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
-    "name": "Anonymous Loris 2059",
-    "id": 2059,
-    "grade": "153,83",
-    "country": "Polónia",
-    "university": "Politechnika Wroclawska",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Rhino 2061",
     "id": 2061,
     "grade": "153,47",
     "country": "República Checa",
     "university": "UNIVERZITA PARDUBICE",
-    "type": "Estudos",
-    "option": "5"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Aurochs 2063",
-    "id": 2063,
-    "grade": "153,18",
-    "country": "Roménia",
-    "university": "UNIVERSITATEA POLITEHNICA DIN TIMISOARA",
     "type": "Estudos",
     "option": "5"
   },
@@ -478,6 +442,18 @@
     "university": "Jyväskylän ammattikorkeakoulu",
     "type": "Estudos",
     "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Aurochs 2063",
+    "id": 2063,
+    "grade": "153,18",
+    "country": "Roménia",
+    "university": "UNIVERSITATEA POLITEHNICA DIN TIMISOARA",
+    "type": "Estudos",
+    "option": "5"
   },
   {
     "class_name": "student",
@@ -507,18 +483,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Wolf 1943",
-    "id": 1943,
-    "grade": "152,39",
-    "country": "Dinamarca",
-    "university": "Aalborg Universitet",
-    "type": "Estudos",
-    "option": "7"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Wolf 2066",
     "id": 2066,
     "grade": "152,32",
@@ -699,18 +663,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Giraffe 2082",
-    "id": 2082,
-    "grade": "148,64",
-    "country": "Suécia",
-    "university": "Linnaeus University",
-    "type": "Estudos",
-    "option": "8"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Anteater 2081",
     "id": 2081,
     "grade": "148,64",
@@ -718,6 +670,18 @@
     "university": "Universidade de Macau",
     "type": "",
     "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
+    "name": "Anonymous Giraffe 2082",
+    "id": 2082,
+    "grade": "148,64",
+    "country": "Suécia",
+    "university": "Linnaeus University",
+    "type": "Estudos",
+    "option": "8"
   },
   {
     "class_name": "student",
@@ -818,18 +782,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Sheep 1969",
-    "id": 1969,
-    "grade": "147,06",
-    "country": "França",
-    "university": "Université Pierre et Marie Curie (Paris VI)",
-    "type": "Estudos",
-    "option": "5"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Capybara 2091",
     "id": 2091,
@@ -854,14 +806,14 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Dingo 2093",
     "id": 2093,
     "grade": "145,91",
-    "country": "Áustria",
-    "university": "Technische Universität Wien",
-    "type": "Estudos",
-    "option": "22"
+    "country": "Suíça",
+    "university": "EPFL - École Polytechnique Fédérale de Lausanne",
+    "type": "",
+    "option": "6"
   },
   {
     "class_name": "student",
@@ -910,6 +862,18 @@
     "university": "Technische Universität Dresden",
     "type": "Estudos",
     "option": "3"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Kraken 2098",
+    "id": 2098,
+    "grade": "144,97",
+    "country": "Países Baixos",
+    "university": "Universiteit Twente",
+    "type": "Estudos",
+    "option": "2"
   },
   {
     "class_name": "student",
@@ -974,26 +938,26 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
+    "order": "2.º",
     "name": "Anonymous Cheetah 2104",
     "id": 2104,
     "grade": "143,96",
-    "country": "França",
-    "university": "Institut National des Sciences Appliquées de Toulouse",
+    "country": "Áustria",
+    "university": "Technische Universität Wien",
     "type": "Estudos",
-    "option": "12"
+    "option": "10"
   },
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Chupacabra 2105",
     "id": 2105,
     "grade": "143,53",
-    "country": "Alemanha",
-    "university": "Technische Universität Dresden",
+    "country": "Dinamarca",
+    "university": "Aalborg Universitet",
     "type": "Estudos",
-    "option": "10"
+    "option": "3"
   },
   {
     "class_name": "student",
@@ -1006,18 +970,6 @@
     "university": "Universidad Pontificia Comillas",
     "type": "Estudos",
     "option": "18"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Giraffe 1985",
-    "id": 1985,
-    "grade": "143,17",
-    "country": "Argentina",
-    "university": "Instituto Tecnologico de Buenos Aires",
-    "type": "",
-    "option": "1"
   },
   {
     "class_name": "student",
@@ -1046,7 +998,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Walrus 2109",
     "id": 2109,
     "grade": "142,74",
@@ -1131,18 +1083,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Axolotl 1995",
-    "id": 1995,
-    "grade": "141,95",
-    "country": "México",
-    "university": "Instituto Tecnológico y de Estudios Superior de Monterrey",
-    "type": "",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Skunk 2116",
     "id": 2116,
     "grade": "141,80",
@@ -1166,18 +1106,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Tiger 1998",
-    "id": 1998,
-    "grade": "141,15",
-    "country": "Espanha",
-    "university": "Universidad De Oviedo",
-    "type": "Estudos",
-    "option": "14"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Bat 2118",
     "id": 2118,
@@ -1190,14 +1118,14 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
+    "order": "2.º",
     "name": "Anonymous Leopard 2119",
     "id": 2119,
     "grade": "141,01",
-    "country": "Colômbia",
-    "university": "Universidad de Los Andes",
+    "country": "Argentina",
+    "university": "Instituto Tecnologico de Buenos Aires",
     "type": "",
-    "option": "9"
+    "option": "7"
   },
   {
     "class_name": "student",
@@ -1250,7 +1178,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Nyan cat 2124",
     "id": 2124,
     "grade": "140,00",
@@ -1258,6 +1186,18 @@
     "university": "Institut National des Sciences Appliquées de Toulouse",
     "type": "Estudos",
     "option": "8"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Kangaroo 2125",
+    "id": 2125,
+    "grade": "139,28",
+    "country": "França",
+    "university": "Institut National des Sciences Appliquées de Toulouse",
+    "type": "Estudos",
+    "option": "18"
   },
   {
     "class_name": "student",
@@ -1274,7 +1214,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Platypus 2127",
     "id": 2127,
     "grade": "138,35",
@@ -1311,18 +1251,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
-    "name": "Anonymous Kraken 2010",
-    "id": 2010,
-    "grade": "138,06",
-    "country": "México",
-    "university": "Instituto Politécnico Nacional",
-    "type": "",
-    "option": "2"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Loris 2130",
     "id": 2130,
     "grade": "137,77",
@@ -1346,18 +1274,6 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Penguin 2013",
-    "id": 2013,
-    "grade": "136,54",
-    "country": "Brasil",
-    "university": "Universidade Federal do Rio Grande do Norte",
-    "type": "",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
     "order": "2.º",
     "name": "Anonymous Fox 2132",
     "id": 2132,
@@ -1371,13 +1287,13 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
-    "name": "Anonymous Dingo 2015",
-    "id": 2015,
-    "grade": "135,68",
-    "country": "Brasil",
-    "university": "Universidade do Estado do Rio de Janeiro",
+    "name": "Anonymous Axolotl 2133",
+    "id": 2133,
+    "grade": "136,33",
+    "country": "México",
+    "university": "Instituto Politécnico Nacional",
     "type": "",
-    "option": "12"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -1399,26 +1315,26 @@
     "id": 2135,
     "grade": "134,74",
     "country": "Brasil",
-    "university": "Universidade Federal do Rio de Janeiro - POLI",
+    "university": "Universidade do Estado do Rio de Janeiro",
     "type": "",
-    "option": "2"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Elephant 2018",
-    "id": 2018,
-    "grade": "133,81",
-    "country": "Turquia",
-    "university": "Yaşar Üniversitesi",
-    "type": "Estudos",
-    "option": "14"
+    "option": "1"
   },
   {
     "class_name": "student",
     "phase": "1ª",
     "order": "2.º",
+    "name": "Anonymous Chupacabra 2136",
+    "id": 2136,
+    "grade": "134,46",
+    "country": "Espanha",
+    "university": "Universidad De Oviedo",
+    "type": "Estudos",
+    "option": "19"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
     "name": "Anonymous Beaver 2137",
     "id": 2137,
     "grade": "133,66",
@@ -1430,7 +1346,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Jackal 2138",
     "id": 2138,
     "grade": "132,80",
@@ -1438,18 +1354,6 @@
     "university": "Universidade Federal do Rio Grande do Norte",
     "type": "",
     "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Kangaroo 2021",
-    "id": 2021,
-    "grade": "53,11",
-    "country": "Brasil",
-    "university": "Pontifícia Universidade Católica do Rio Grande do Sul",
-    "type": "",
-    "option": "3"
   },
   {
     "class_name": "student",
@@ -1478,14 +1382,14 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "1.º",
+    "order": "2.º",
     "name": "Anonymous Duck 2141",
     "id": 2141,
     "grade": "44,32",
     "country": "Alemanha",
-    "university": "Technische Universität Kaiserslautern",
+    "university": "Technische Universität Dresden",
     "type": "Estudos",
-    "option": "3"
+    "option": "2"
   },
   {
     "class_name": "student",

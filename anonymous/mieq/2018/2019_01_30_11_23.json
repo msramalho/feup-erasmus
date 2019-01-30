@@ -27,35 +27,11 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Gopher 2177",
-    "id": 2177,
-    "grade": "157,95",
-    "country": "Itália",
-    "university": "Politecnico di Milano",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Crow 2199",
     "id": 2199,
     "grade": "155,63",
     "country": "Espanha",
     "university": "Universitat Politècnica de Catalunya",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Aurochs 2201",
-    "id": 2201,
-    "grade": "155,42",
-    "country": "Bélgica",
-    "university": "Katholieke Universiteit Leuven",
     "type": "Estudos",
     "option": "1"
   },
@@ -75,6 +51,18 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
+    "name": "Anonymous Aurochs 2201",
+    "id": 2201,
+    "grade": "155,42",
+    "country": "Bélgica",
+    "university": "Katholieke Universiteit Leuven",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "1.º",
     "name": "Anonymous Kraken 2202",
     "id": 2202,
     "grade": "153,72",
@@ -82,18 +70,6 @@
     "university": "Instituto Tecnologico de Buenos Aires",
     "type": "",
     "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Frog 2182",
-    "id": 2182,
-    "grade": "152,62",
-    "country": "Alemanha",
-    "university": "Technische Universität Berlin",
-    "type": "Estudos",
-    "option": "2"
   },
   {
     "class_name": "student",
@@ -110,7 +86,7 @@
   {
     "class_name": "student",
     "phase": "1ª",
-    "order": "2.º",
+    "order": "1.º",
     "name": "Anonymous Dinosaur 2204",
     "id": 2204,
     "grade": "151,60",
@@ -246,10 +222,10 @@
     "name": "Anonymous Orangutan 2215",
     "id": 2215,
     "grade": "138,41",
-    "country": "Suécia",
-    "university": "CHALMERS TEKNISKA HÖGSKOLA",
+    "country": "Itália",
+    "university": "Politecnico di Milano",
     "type": "Estudos",
-    "option": "2"
+    "option": "1"
   },
   {
     "class_name": "student",

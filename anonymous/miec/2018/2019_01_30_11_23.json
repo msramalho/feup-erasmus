@@ -3,54 +3,6 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Moose 41",
-    "id": 41,
-    "grade": "170,91",
-    "country": "Países Baixos",
-    "university": "Universiteit Twente",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Camel 42",
-    "id": 42,
-    "grade": "162,35",
-    "country": "França",
-    "university": "École Nationale des Ponts et Chaussées",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Armadillo 43",
-    "id": 43,
-    "grade": "156,67",
-    "country": "Dinamarca",
-    "university": "Aarhus Universitet",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Dingo 44",
-    "id": 44,
-    "grade": "156,67",
-    "country": "Alemanha",
-    "university": "Karlsruher Institut fur Technologie",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Jackalope 66",
     "id": 66,
     "grade": "156,31",
@@ -92,18 +44,6 @@
     "grade": "152,61",
     "country": "Polónia",
     "university": "Politechnika Wroclawska",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Raccoon 49",
-    "id": 49,
-    "grade": "152,25",
-    "country": "Hungria",
-    "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
     "type": "Estudos",
     "option": "1"
   },
@@ -159,25 +99,13 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Liger 54",
-    "id": 54,
-    "grade": "146,57",
-    "country": "França",
-    "university": "Institut National des Sciences Appliquées de Rennes - INSA",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
     "name": "Anonymous Loris 74",
     "id": 74,
     "grade": "146,57",
-    "country": "República Checa",
-    "university": "Ceské Vysoké Ucéni Technické v Praze",
+    "country": "Hungria",
+    "university": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
     "type": "Estudos",
-    "option": "2"
+    "option": "1"
   },
   {
     "class_name": "student",
@@ -195,35 +123,11 @@
     "class_name": "student",
     "phase": "1ª",
     "order": "1.º",
-    "name": "Anonymous Turtle 57",
-    "id": 57,
-    "grade": "145,94",
-    "country": "Itália",
-    "university": "Politecnico di Milano",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
     "name": "Anonymous Platypus 76",
     "id": 76,
     "grade": "145,22",
     "country": "Lituânia",
     "university": "Vilnius Gedimino Technikos Universitetas",
-    "type": "Estudos",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "2.º",
-    "name": "Anonymous Chipmunk 78",
-    "id": 78,
-    "grade": "144,68",
-    "country": "Itália",
-    "university": "Sapienza Università di Roma (Facoltà di Ingegneria Civile e Industriale)",
     "type": "Estudos",
     "option": "1"
   },
@@ -236,6 +140,18 @@
     "grade": "144,68",
     "country": "República Checa",
     "university": "VYSOKÉ UCENÍ TECHNICKÉ V BRNE",
+    "type": "Estudos",
+    "option": "1"
+  },
+  {
+    "class_name": "student",
+    "phase": "1ª",
+    "order": "2.º",
+    "name": "Anonymous Chipmunk 78",
+    "id": 78,
+    "grade": "144,68",
+    "country": "Itália",
+    "university": "Sapienza Università di Roma (Facoltà di Ingegneria Civile e Industriale)",
     "type": "Estudos",
     "option": "1"
   },
@@ -285,18 +201,6 @@
     "country": "Brasil",
     "university": "Universidade Federal de Santa Catarina",
     "type": "",
-    "option": "1"
-  },
-  {
-    "class_name": "student",
-    "phase": "1ª",
-    "order": "1.º",
-    "name": "Anonymous Cormorant 65",
-    "id": 65,
-    "grade": "43,69",
-    "country": "Turquia",
-    "university": "Sakarya Üniversitesi",
-    "type": "Estudos",
     "option": "1"
   }
 ]
